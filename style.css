@@ -160,8 +160,6 @@ body
 .timeline{
     list-style-type: none;
     position: absolute;
-    width: 100px;
-    height: 100px;
     top:0;
     bottom: 0;
     left: 0;
