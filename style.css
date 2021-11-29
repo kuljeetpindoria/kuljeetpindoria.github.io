@@ -159,7 +159,7 @@ body
 
 .timeline{
     list-style-type: none;
-    position: absolute;
+    position: relative;
 }
 
 .timeline :before{
